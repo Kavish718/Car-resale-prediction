@@ -14,16 +14,6 @@ This project explores multiple machine learning approaches to estimate resale pr
 
 Rather than relying on a single predictive model, the project evaluates different families of algorithms and investigates whether alternative architectures, ensemble strategies, and synthetic training data can improve prediction performance.
 
-## Objectives
-
-- Develop machine learning models for used car resale price prediction.
-- Explore feature preprocessing, feature engineering, and dimensionality reduction.
-- Compare traditional regression, gradient boosting, and neural network approaches.
-- Optimize model performance through hyperparameter tuning.
-- Experiment with synthetic tabular data generation using CVAE and CTGAN.
-- Investigate ensemble learning through combining gradient boosting predictions.
-- Analyze prediction errors and model behavior.
-
 ---
 
 ## Machine Learning Approaches
